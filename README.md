@@ -1,10 +1,10 @@
 ### Hi there 👋, Thu Thao
 #### Development
-I'm currently a 3rd year student at FPT University. I’m interested in learning new things, experiencing things I've never done. I’m currently learning languages and frameworks like flutter.
+I have one year of experience using the Flutter framework and have applied it to several projects. I am continuously learning and enhancing my expertise in this field.
 
-kills: Flutter / JS / HTML / CSS
+kills: Flutter / JS / JAVA
 
-- 💬 Ask me about anything. anything, I am happy to help if i can. 
+- 💬 Ask me about anything. anything, I am happy to help if I can. 
 - 📫 How to reach me: thuthao1214012@gmail.com 
 
 
